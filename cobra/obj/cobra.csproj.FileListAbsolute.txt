@@ -1,0 +1,9 @@
+C:\Documents and Settings\User\Meus documentos\Ricardo Azzi Silva\Backup de barata\Ricardo Azzi Silva - 2ºO\cobra\cobra\obj\Debug\cobra.pdb
+C:\Documents and Settings\User\Meus documentos\Ricardo Azzi Silva\Backup de barata\Ricardo Azzi Silva - 2ºO\cobra\cobra\bin\Debug\cobra.exe
+C:\Documents and Settings\User\Meus documentos\Ricardo Azzi Silva\Backup de barata\Ricardo Azzi Silva - 2ºO\cobra\cobra\bin\Debug\cobra.pdb
+C:\Documents and Settings\User\Meus documentos\Ricardo Azzi Silva\Backup de barata\Ricardo Azzi Silva - 2ºO\cobra\cobra\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Meus documentos\Ricardo Azzi Silva\Backup de barata\Ricardo Azzi Silva - 2ºO\cobra\cobra\obj\Debug\cobra.Form1.resources
+C:\Documents and Settings\User\Meus documentos\Ricardo Azzi Silva\Backup de barata\Ricardo Azzi Silva - 2ºO\cobra\cobra\obj\Debug\cobra.Form2.resources
+C:\Documents and Settings\User\Meus documentos\Ricardo Azzi Silva\Backup de barata\Ricardo Azzi Silva - 2ºO\cobra\cobra\obj\Debug\cobra.Properties.Resources.resources
+C:\Documents and Settings\User\Meus documentos\Ricardo Azzi Silva\Backup de barata\Ricardo Azzi Silva - 2ºO\cobra\cobra\obj\Debug\cobra.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\Meus documentos\Ricardo Azzi Silva\Backup de barata\Ricardo Azzi Silva - 2ºO\cobra\cobra\obj\Debug\cobra.exe

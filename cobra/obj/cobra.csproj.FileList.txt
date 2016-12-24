@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\cobra.Properties.Resources.resources
+obj\Debug\cobra.csproj.GenerateResource.Cache
+bin\Debug\cobra.exe
+bin\Debug\cobra.pdb
+obj\Debug\cobra.exe
+obj\Debug\cobra.pdb
+obj\Debug\cobra.Form2.resources
+obj\Debug\cobra.Form1.resources
